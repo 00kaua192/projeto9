@@ -14,13 +14,33 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    background: rgb(57, 24, 220);
+    padding-bottom: 60px;
+    padding-top: 60px;
     display: flex;
     justify-content: center;
 }
-
+.chamada01 {
+    background: rgb(216, 55, 63);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+.chamada02 {
+    background: rgb(93, 210, 165);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center
+}
+.chamada03 {
+    background: rgb(177, 21, 205);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center
+}
 .chamada-texto {
     margin-right: 5%;
 }
@@ -56,5 +76,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(198, 202, 218);
 }
